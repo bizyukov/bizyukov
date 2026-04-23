@@ -99,6 +99,19 @@
 
 ---
 
+## 🌟 My flagship open‑source projects
+
+| Project | Tech stack | Purpose |
+|---------|------------|---------|
+| [Internet Magazin Front](https://github.com/bizyukov/internet-magazin-front) | Angular 20, Signals, Bootstrap | e‑Commerce frontend |
+| [Tracker NG](https://github.com/bizyukov/tracker-ng) | Angular 16, NgRx, Bootstrap | Project management SPA |
+| [Persons BE](https://github.com/bizyukov/persons-be) | NestJS, PostgreSQL, JWT, Prometheus | Authentication microservice |
+| [Tracker BFF](https://github.com/bizyukov/tracker-bff) | NestJS, RxJS | API Gateway / Backend‑for‑Frontend |
+
+All are **production‑ready**, documented, and have CI/CD pipelines.
+
+---
+
 ## 📬 Let's Connect
 
 I'm open to **collaborations**, **freelance projects**, or **full‑time opportunities**.  
