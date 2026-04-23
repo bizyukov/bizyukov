@@ -38,6 +38,12 @@
 
 *Real‑world applications that demonstrate architectural expertise and production readiness.*
 
+### 🔹 [Internet Magazin Front](https://github.com/bizyukov/internet-magazin-front) – Modern e‑Commerce Frontend
+> **Angular 20 (Standalone, Signals)**  
+> Production‑ready online store with cart, wishlist, multi‑step checkout, user dashboard, and full API integration.  
+> **Tech highlights:** standalone components, new control flow (`@if`/`@for`), signals for state, Bootstrap 5.  
+> **Business value:** reduces time‑to‑market for e‑commerce projects by 50%, improves conversion rate.
+
 ### 🔹 [Tracker NG](https://github.com/bizyukov/tracker-ng) – Project Management SPA
 > **Angular 16 + NgRx + Bootstrap 5**  
 > Project & issue tracker with Kanban boards, comments, user roles, and support chat.  
@@ -47,12 +53,6 @@
 > **Angular 14 + NestJS + PostgreSQL**  
 > Service & task marketplace with user profiles, deals, analytics.  
 > **Architecture:** BFF pattern, dedicated auth service, email microservice, Prometheus metrics.
-
-### 🔹 [Internet Magazin Front](https://github.com/bizyukov/internet-magazin-front) – Modern e‑Commerce Frontend
-> **Angular 20 (Standalone, Signals)**  
-> Production‑ready online store with cart, wishlist, multi‑step checkout, user dashboard, and full API integration.  
-> **Tech highlights:** standalone components, new control flow (`@if`/`@for`), signals for state, Bootstrap 5.  
-> **Business value:** reduces time‑to‑market for e‑commerce projects by 50%, improves conversion rate.
 
 ### 🔹 [Persons BE](https://github.com/bizyukov/persons-be) – Authentication Microservice
 > **NestJS 9 + PostgreSQL + JWT + Prometheus**  
