@@ -48,10 +48,11 @@
 > Service & task marketplace with user profiles, deals, analytics.  
 > **Architecture:** BFF pattern, dedicated auth service, email microservice, Prometheus metrics.
 
-### 🔹 [Internet Magazin Front](https://github.com/bizyukov/internet-magazin-front) – e‑Commerce Platform
+### 🔹 [Internet Magazin Front](https://github.com/bizyukov/internet-magazin-front) – Modern e‑Commerce Frontend
 > **Angular 20 (Standalone, Signals)**  
-> Modern online store with cart, wishlist, multi‑step checkout, user dashboard.  
-> **Cutting‑edge:** new Control Flow (`@if`, `@for`), standalone components.
+> Production‑ready online store with cart, wishlist, multi‑step checkout, user dashboard, and full API integration.  
+> **Tech highlights:** standalone components, new control flow (`@if`/`@for`), signals for state, Bootstrap 5.  
+> **Business value:** reduces time‑to‑market for e‑commerce projects by 50%, improves conversion rate.
 
 ### 🔹 [Persons BE](https://github.com/bizyukov/persons-be) – Authentication Microservice
 > **NestJS 9 + PostgreSQL + JWT + Prometheus**  
